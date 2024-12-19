@@ -20,6 +20,4 @@ elif num > 1:
         else:
             print(num, "is a prime number")
 
-
-
-##Hello, !!!
+#### Suite du code dans quelques lignes???
